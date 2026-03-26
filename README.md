@@ -101,9 +101,9 @@ PCI DSS Requirement 1.3 mandates private connectivity for cardholder data enviro
 
 ## Contact
 
-**Victor Ogechukwu Ojeje** — Cloud Engineer | DevOps Engineer
+**Victor Ogechukwu Ojeje** - Cloud Engineer
 
-Open to remote Cloud, DevOps, and SRE roles with infrastructure security depth.
+Open to remote Cloud and SRE roles with infrastructure security depth.
 
 *LinkedIn: [linkedin.com/in/victorojeje](linkedin.com/in/victorojeje) | GitHub: [github.com/escanut](github.com/escanut)
 Blog: [dev.to/escanut](dev.to/escanut)*

@@ -78,11 +78,6 @@ PCI DSS Requirement 1.3 mandates private connectivity for cardholder data enviro
 
 **AWS-Owned Keys fail PCI DSS Req 3.5.1.** CloudTrail does not log their usage. You cannot produce key access evidence for an auditor. Customer-managed KMS keys generate a CloudTrail entry on every encrypt and decrypt — that is the audit trail.
 
----
-
-
----
-
 
 ---
 
@@ -103,7 +98,6 @@ PCI DSS Requirement 1.3 mandates private connectivity for cardholder data enviro
 ---
 
 
----
 
 ## Contact
 
